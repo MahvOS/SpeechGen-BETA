@@ -6,7 +6,7 @@
 #                start
 #                exit
 
-import pyfiglet
+
 from colorama import Fore, Style
 from pymsgbox import *
 import os
