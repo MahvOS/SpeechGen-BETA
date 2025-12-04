@@ -1,5 +1,5 @@
 # SpeechGen-BETA
-Speech Minute Tracker dengan fitur yang sangat terbatas \
+Speech Minute Tracker dengan fitur yang sangat terbatas, fitur lainnya masih dev-process \
 Ini cuma gw buat biar ngisi waktu luang aja
 ## Install compliment
 
