@@ -1,8 +1,9 @@
 # SpeechGen-BETA
-Speech Minute Tracker untuk persiapan speech, dibuat khusus untuk anak IDN BS  :)
+Speech Minute Tracker dengan fitur yang sangat terbatas \
+Ini cuma gw buat biar ngisi waktu luang aja
 ## Install compliment
 
-Harus menggunakan Python 3 ke atas, dan tentunya [pip](https://pip.pypa.io/en/stable/) untuk install module.
+Harus menggunakan Python 3 ke atas, dan install module di [pip](https://pip.pypa.io/en/stable/) 
 
 ```python
 pip install colorama
